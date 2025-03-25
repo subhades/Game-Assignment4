@@ -1,0 +1,5 @@
+-Added Collection which increase the number of globs killed and number of gems collected
+-Added a point system which increases based on the above (different values)
+-Made players not killed after one hit, added a tracker to track their 3 lives (once all three have been taken, they die and respawn)
+-Added power ups for speed and jump, only one at a time can be used, and a tracker for it
+-
